@@ -21,6 +21,6 @@ ___
 >> 3. Time Efficiency: The streamlined integration process optimizes data analysis workflows, saving time and effort.
 >> 4. Decision Support: The generated analysis outputs and visualizations empower stakeholders to make data-driven decisions with confidence.
 
-*This project serves as a valuable resource for data analysts seeking to harmonize and leverage satellite imagery and field data effectively. It provides a foundation for further analysis and supports evidence-based decision-making across various domains.*
+*This project played a pivotal role in the successful eradication of the Wild Polio Virus in Nigeria, specifically focusing on the North-East region. Through the harmonization and unification of critical data within the Expanded Program on Immunization, this initiative significantly contributed to the achievement of Nigeria being declared a Wild Polio Virus free country in August 2020*
 
 
