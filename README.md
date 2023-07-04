@@ -3,9 +3,9 @@
 ___
 ## GitHub Project Description: "Satellite Imagery and Field Data Harmonization Analysis for Data Analysts"
 
-**Overview:**
-This project aims to facilitate the harmonization of satellite imagery data with on-ground field data through comprehensive analysis. 
-As a data analyst, my objective is to streamline the integration of these two datasets, allowing for more accurate and insightful analysis.
+>**Overview:**
+>This project aims to facilitate the harmonization of satellite imagery data with on-ground field data through comprehensive analysis. 
+>As a data analyst, my objective is to streamline the integration of these two datasets, allowing for more accurate and insightful analysis.
 
 > **Key Features:**
 >
