@@ -1,3 +1,4 @@
+![analysis summary](https://github.com/yuenfu001/Descripancy-Analysis/blob/main/descripancy%20analysis.png)
 # Descripancy-Analysis
 ___
 ## GitHub Project Description: "Satellite Imagery and Field Data Harmonization Analysis for Data Analysts"
