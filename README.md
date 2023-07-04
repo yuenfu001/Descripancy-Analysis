@@ -6,8 +6,8 @@ ___
 This project aims to facilitate the harmonization of satellite imagery data with on-ground field data through comprehensive analysis. 
 As a data analyst, my objective is to streamline the integration of these two datasets, allowing for more accurate and insightful analysis.
 
-**Key Features:**
-
+> **Key Features:**
+>
 >> 1. Data Integration: Implementing advanced techniques to merge satellite imagery data and corresponding field data seamlessly.
 >> 2. Data Cleaning and Preprocessing: Employing robust methods to ensure the quality and consistency of the integrated dataset.
 >> 3. Feature Extraction: Extracting relevant features from the combined dataset to enhance analytical capabilities and uncover valuable insights.
