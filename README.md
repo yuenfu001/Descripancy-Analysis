@@ -1,7 +1,7 @@
 .![analysis summary](https://github.com/yuenfu001/Descripancy-Analysis/blob/main/descripancy%20analysis.png)
 # Discrepancy Analysis Utilizing Excel Functions and Formulas
 ___
-## GitHub Project Description: "Satellite Imagery and Field Data Harmonization Analysis for Data Analysts"
+## Project Description: "Satellite Imagery and Field Data Harmonization Analysis for Data Analysts"
 
 >**Overview:**
 >This project aims to facilitate the harmonization of satellite imagery data with on-ground field data through comprehensive analysis. 
